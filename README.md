@@ -1,5 +1,5 @@
 ## 무인 카페 서빙 로봇
-# second team proejct
+* second team proejct
 
 ✏️ **주제** : 무인 카페 서빙 로봇 ****
 
